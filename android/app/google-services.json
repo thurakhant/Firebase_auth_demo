@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968335762700",
+    "project_id": "potato-brew-crew",
+    "storage_bucket": "potato-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968335762700:android:9634c3a7f6810bb6771529",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968335762700-004p9e6a8jo3nlv08qkknkljh2rqfj50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUu22WNWhcd_L6oiMEhZQXT1nzWdYu04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968335762700-004p9e6a8jo3nlv08qkknkljh2rqfj50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
